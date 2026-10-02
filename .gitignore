@@ -1,0 +1,12 @@
+# Private vault data and master key hashes
+PrivateVault/
+.PrivateVault_Locked/
+Private/
+.vault_key.dat
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
